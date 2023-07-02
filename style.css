@@ -1,0 +1,28 @@
+
+
+
+
+h1  {
+    background: gray;
+    color: white;
+}
+
+.thesecond{
+    border: 2px solid blue;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 20px;
+    margin-top: 250px;
+    margin-left: 250px;
+}
+
+.thefirst{
+    border: 2px solid red;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 20px;
+}
+
+.thespydancing{
+    margin-left: 950px;
+}
